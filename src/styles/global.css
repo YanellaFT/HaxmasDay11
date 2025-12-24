@@ -1,1 +1,47 @@
 @import "tailwindcss";
+
+body {
+    background-color: #334759;
+
+    align-items: center;
+
+    font-family: cursive;
+    color:#e2f10f;
+    text-align: center;
+   
+}
+
+h1 {
+    font-size: 3em;
+    /*margin-bottom: 1em;*/
+    font-family:'Times New Roman', Times, serif
+}
+
+.tagline {
+    margin-bottom: 1em;
+}
+
+.pic {
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 100%;
+}
+
+.posts-link { 
+    
+    background-size: 100% ;
+    background: #b438d7;
+    color: #ebeecc;
+
+    padding: 1em;
+    border-radius: 10px;
+    margin: 1em;
+
+
+}
+
+.page-header {
+    align-items: center;
+    justify-self: center;
+}
