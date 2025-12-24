@@ -14,12 +14,13 @@ const posts = (await getCollection('blog')).sort(
 <div class="posts-page page-shell">
     <!-- text above list of posts -->
     <header class="page-header">
-        <h1>❄️ My Posts for Haxmas Day 11 ❄️</h1>
+        <h1> My Posts for Haxmas Day 11 </h1>
         <p class="tagline">My struggles to make this work... lol</p>
     </header>
 
     {posts.length === 0 && <p class="empty">No posts yet :(</p>}
 
+    <p> Click on a post to read it: </p>
     <!-- Container with list of blog posts -->
     <div class="posts">
         {posts.map((post) => (

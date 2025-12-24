@@ -1,7 +1,12 @@
 @import "tailwindcss";
 
 body {
-    background-color: #334759;
+    /*background-color: #334759;*/
+
+    background-image: linear-gradient(to bottom, grey, rgb(45, 42, 85), grey);
+    background-size: cover;
+    /*background-position: center;
+    background-repeat: no-repeat;*/
 
     align-items: center;
 
@@ -44,4 +49,27 @@ h1 {
 .page-header {
     align-items: center;
     justify-self: center;
+}
+
+
+.posts-page page-shell {
+    align-items: center;
+    justify-self: center;
+}
+
+.post-card {
+    /*background-color: #b438d7;*/
+    background-image: linear-gradient(to bottom, purple, rgb(187, 131, 210));
+
+
+    color: #ebeecc;
+
+    padding: 1em;
+    border-radius: 10px;
+    margin: 1em;
+
+}
+
+.title-link {
+    text-decoration: underline;
 }
