@@ -4,8 +4,6 @@ description: What I learned and what I struggled on.
 pubDate: Dec 24 2025
 ---
 
----
-
 ## Learned?
 
 Yes! This was my first time doing Astro and I learned the basics of how to used it.
