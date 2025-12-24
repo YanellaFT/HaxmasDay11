@@ -1,0 +1,14 @@
+.post-page {
+
+    background-image: linear-gradient(to bottom, grey, rgb(45, 42, 85), grey);
+    background-size: cover;
+
+    align-items: center;
+    justify-self: center;
+
+
+    font-family: cursive;
+    color:#e2f10f;
+    text-align: center;
+   
+}

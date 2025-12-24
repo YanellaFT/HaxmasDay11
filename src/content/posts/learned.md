@@ -4,11 +4,16 @@ description: What I learned and what I struggled on.
 pubDate: Dec 24 2025
 ---
 
-# Haxmas Day 11 Adventure
+---
 
-Here, you'll be able to see what I learned, what I struggled on, and much more!
+## Learned?
 
-## And this is a subtitle
+Yes! This was my first time doing Astro and I learned the basics of how to used it.
 
-You can make stuff __bold__, *italic*, or even ~~strikethrough~~ like in regular markdown!
-![image from lorem picsum](https://picsum.photos/800/400)
+## Struggled?
+
+~~No of course not!~~ All the CSS was done by myself and I have not done much before. I also struggled in comlpetely understanding the astro framework. 
+
+## Fun?
+
+Of course! :D

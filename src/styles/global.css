@@ -73,3 +73,19 @@ h1 {
 .title-link {
     text-decoration: underline;
 }
+
+.post-page page-shell {
+    /*background-color: #334759;*/
+
+    background-image: linear-gradient(to bottom, grey, rgb(45, 42, 85), grey);
+    background-size: cover;
+    /*background-position: center;
+    background-repeat: no-repeat;*/
+
+    align-items: center;
+
+    font-family: cursive;
+    color:#e2f10f;
+    text-align: center;
+   
+}

@@ -1,7 +1,9 @@
 ---
 title: Hello, World!
 description: This is a very cool workshop
-pubDate: Dec 24 2025
+pubDate: Dec 23 2025
+---
+
 ---
 
 # This is a title
